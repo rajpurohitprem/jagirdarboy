@@ -1,0 +1,7 @@
+{
+  "api_id": 123456,
+  "api_hash": "your_api_hash",
+  "phone": "+91xxxxxxxxxx",
+  "source_channel": "source_channel_id_or_link",
+  "target_channel": "target_channel_id_or_link"
+}
