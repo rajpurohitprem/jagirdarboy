@@ -3,7 +3,7 @@ from threading import Thread
 from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
-BOT_TOKEN = "7673016994:AAGdTRce4G2tD5ayeUJxjs1c_AM1ItFV40s"
+BOT_TOKEN = "7794369165:AAHZxoqFtXfsl6F9B6LrrZxHjGeGZXcJ0k8"
 AUTHORIZED_USER = 6044257984
 CONFIG_FILE = "config.json"
 COPIER_SCRIPT = "python copier.py --auto"
